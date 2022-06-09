@@ -1,6 +1,6 @@
 ## Piano 🎹
 
-Piano playing the first 12 notes. <br>
+Piano playing the first 12 notes. <br><br>
 <img src="readme/piano.png">
 
 ### <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
