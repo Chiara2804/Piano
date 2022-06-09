@@ -4,7 +4,7 @@ Piano playing the first 12 notes
 <img src="readme/piano.jpg">
 
 ### JS
-```javacsript
+```javascript
 const notes = {
     do: '01-d0.mp3',
     dodiesis: '02-dodiesis.mp3',
@@ -21,7 +21,7 @@ const notes = {
 }
 ```
 
-```javacsript
+```javascript
 function playSound(key) {
     const audioElement = new Audio();
     const note = notes[key];
@@ -30,7 +30,7 @@ function playSound(key) {
 }
 ```
 
-```javacsript
+```javascript
 keyElement.forEach(function(keyElement) {
     keyElement.addEventListener('touchend', function() {
         const key = keyElement.id;
