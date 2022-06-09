@@ -1,0 +1,11 @@
+{
+    "short_name": "Piano",
+    "name": "Pianoforte",
+    "icons": [{
+        "src": "./icons/piano.png",
+        "sizes": "64x64",
+        "type": "image/png"
+    }],
+    "theme_color": "#005bea",
+    "display": "fullscreen"
+}
