@@ -3,7 +3,7 @@
 Piano playing the first 12 notes
 <img src="readme/piano.jpg">
 
-### JS
+### <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
 ```javascript
 const notes = {
     do: '01-d0.mp3',
